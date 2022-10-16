@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "205426289634",
+    "project_id": "health1-59b9a",
+    "storage_bucket": "health1-59b9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205426289634:android:b9e5b44430de236bfb27bb",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205426289634-b2icudb798cbdmjnqoa022ti6omsmmtf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs7EmJDb8fmI3jCnsKiZHLttfyaPA0wC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205426289634-b2icudb798cbdmjnqoa022ti6omsmmtf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
